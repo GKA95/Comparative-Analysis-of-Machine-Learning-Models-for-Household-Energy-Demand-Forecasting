@@ -166,7 +166,7 @@ The notebooks are arranged sequentially to allow full reproduction of the study.
 
 ## Author
 
-GKA
+Gideon Kwesi Ansah
 
 Research Interests:
 
